@@ -1,2 +1,0 @@
-# sombrerero
-Char con IA
