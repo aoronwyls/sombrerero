@@ -1,2 +1,2 @@
 # sombrerero
-Char con IA
+Chat con IA
